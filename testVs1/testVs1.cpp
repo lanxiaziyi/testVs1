@@ -5,7 +5,7 @@
 
 int main()
 {
-	std::cout << "Hello World! VS1\n";
+	std::cout << "Hello World! VS1----\n";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
